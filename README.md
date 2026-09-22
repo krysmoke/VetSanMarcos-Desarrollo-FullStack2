@@ -37,7 +37,7 @@ src/
 │   ├── molecules/
 │   ├── organisms/
 │   ├── templates/
-│   └── pages/
+├── pages/
 ├── App.css
 ├── App.jsx
 ├── Index.css
@@ -58,7 +58,7 @@ src/
 
 1. Clonar el repositorio:
    ```bash
-   git clone [URL_DEL_REPOSITORIO]
+   git clone VetSanMarcos-Desarrollo-FullStack2
    ```
 2. Ingresar a la carpeta del proyecto:
    ```bash
