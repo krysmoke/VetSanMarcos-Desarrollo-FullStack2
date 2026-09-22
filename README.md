@@ -58,11 +58,11 @@ src/
 
 1. Clonar el repositorio:
    ```bash
-   git clone VetSanMarcos-Desarrollo-FullStack2
+   git clone https://github.com/krysmoke/VetSanMarcos-Desarrollo-FullStack2.git
    ```
 2. Ingresar a la carpeta del proyecto:
    ```bash
-   cd veterinaria-san-marcos
+   cd VetSanMarcos-Desarrollo-FullStack2
    ```
 3. Instalar las dependencias:
    ```bash
