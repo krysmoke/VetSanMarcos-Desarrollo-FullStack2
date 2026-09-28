@@ -1,0 +1,92 @@
+[
+  {
+    "codigo": "SV001",
+    "categoria": "Consultas",
+    "nombre": "Consulta general",
+    "especie": "Perro / Gato",
+    "duracion": "30 min",
+    "precio": 15000,
+    "observaciones": ""
+  },
+  {
+    "codigo": "SV002",
+    "categoria": "Consultas",
+    "nombre": "Consulta urgencia",
+    "especie": "Perro / Gato",
+    "duracion": "30 min",
+    "precio": 25000,
+    "observaciones": "Fuera de horario +$10.000"
+  },
+  {
+    "codigo": "VA001",
+    "categoria": "Vacunación",
+    "nombre": "Vacuna antirrábica canina",
+    "especie": "Perro",
+    "duracion": "10 min",
+    "precio": 12000,
+    "observaciones": "Obligatoria por ley"
+  },
+  {
+    "codigo": "VA003",
+    "categoria": "Vacunación",
+    "nombre": "Vacuna bivalente felina",
+    "especie": "Gato",
+    "duracion": "10 min",
+    "precio": 15000,
+    "observaciones": "Refuerzo anual"
+  },
+  {
+    "codigo": "CI002",
+    "categoria": "Cirugía",
+    "nombre": "Esterilización macho canino",
+    "especie": "Perro",
+    "duracion": "60 min",
+    "precio": 60000,
+    "observaciones": "Incluye anestesia"
+  },
+  {
+    "codigo": "DE001",
+    "categoria": "Desparasitación",
+    "nombre": "Desparasitación interna pequeños (<10 kg)",
+    "especie": "Perro",
+    "duracion": "5 min",
+    "precio": 8000,
+    "observaciones": ""
+  },
+  {
+    "codigo": "DE005",
+    "categoria": "Desparasitación",
+    "nombre": "Antiparasitario externo (pipeta)",
+    "especie": "Perro / Gato",
+    "duracion": "5 min",
+    "precio": 7500,
+    "observaciones": "Incluye aplicación"
+  },
+  {
+    "codigo": "EX001",
+    "categoria": "Exámenes",
+    "nombre": "Hemograma completo",
+    "especie": "Perro / Gato",
+    "duracion": "30 min",
+    "precio": 22000,
+    "observaciones": "Resultado en 24-48 h"
+  },
+  {
+    "codigo": "OT001",
+    "categoria": "Otros",
+    "nombre": "Corte de uñas",
+    "especie": "Perro / Gato",
+    "duracion": "15 min",
+    "precio": 5000,
+    "observaciones": ""
+  },
+  {
+    "codigo": "OT002",
+    "categoria": "Otros",
+    "nombre": "Limpieza dental",
+    "especie": "Perro / Gato",
+    "duracion": "45 min",
+    "precio": 55000,
+    "observaciones": "Requiere anestesia"
+  }
+]

@@ -1,9 +1,9 @@
-import InputField from '../atoms/ImputField';
+import CampoTexto from '../atoms/CampoTexto';
 
 const LoginFields = ({ formData, errors, onChange }) => {
   return (
     <>
-      <InputField
+      <CampoTexto
         label="Correo electrónico"
         type="email"
         name="email"
@@ -13,7 +13,7 @@ const LoginFields = ({ formData, errors, onChange }) => {
         isInvalid={!!errors.email}
         errorMessage={errors.email}
       />
-      <InputField
+      <CampoTexto
         label="Contraseña"
         type="password"
         name="password"

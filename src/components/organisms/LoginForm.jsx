@@ -5,7 +5,7 @@ import Col from 'react-bootstrap/Col';
 import Form from 'react-bootstrap/Form';
 import Card from 'react-bootstrap/Card';
 import LoginFields from '../molecules/LoginField';
-import SubmitButton from '../atoms/SubmitButtom';
+import SubmitButton from '../atoms/Boton';
 
 const LoginForm = ({ onSubmit }) => {
   const [formData, setFormData] = useState({ email: '', password: '' });

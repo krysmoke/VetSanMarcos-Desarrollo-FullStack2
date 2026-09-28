@@ -1,7 +1,7 @@
 import Button from 'react-bootstrap/Button';
 import Spinner from 'react-bootstrap/Spinner';
 
-const SubmitButton = ({ text = 'Ingresar', loading = false, ...props }) => {
+const Boton = ({ text = 'Ingresar', loading = false, ...props }) => {
   return (
     <Button type="submit" variant="primary" className="w-100" disabled={loading} {...props}>
       {loading ? (
@@ -16,4 +16,4 @@ const SubmitButton = ({ text = 'Ingresar', loading = false, ...props }) => {
   );
 };
 
-export default SubmitButton;
+export default Boton;
